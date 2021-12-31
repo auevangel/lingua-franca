@@ -1,0 +1,58 @@
+-rw-r--r-- 1 aueva 197609 6153 Dec 31 20:42 list-commits.txt
+-rw-r--r-- 1 aueva 197609    2 Dec 31 20:41 spanish.txt
+
+world:
+total 4
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609 0 Dec 31 20:41 esperanto.txt
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./
+
+todo:
+total 4
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:43 ../
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 europe/
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 asia/
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 africa/
+
+southamerica:
+total 5
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609 54 Dec 31 20:41 portuguese.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:41 ./
+
+northamerica:
+total 6
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 french.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:41 ./
+-rw-r--r-- 1 aueva 197609 53 Dec 31 20:41 english.txt
+
+europe:
+total 15
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 russian.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:41 ./
+-rw-r--r-- 1 aueva 197609 54 Dec 31 20:41 portuguese.txt
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 italian.txt
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 german.txt
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 french.txt
+-rw-r--r-- 1 aueva 197609 53 Dec 31 20:41 english.txt
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 chinese.txt
+
+asia:
+total 10
+drwxr-xr-x 1 aueva 197609   0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609 150 Dec 31 20:41 malay.txt
+drwxr-xr-x 1 aueva 197609   0 Dec 31 20:41 ./
+-rw-r--r-- 1 aueva 197609  14 Dec 31 20:41 korean.txt
+-rw-r--r-- 1 aueva 197609   2 Dec 31 20:41 japanese.txt
+-rw-r--r-- 1 aueva 197609   2 Dec 31 20:41 hindi.txt
+-rw-r--r-- 1 aueva 197609   2 Dec 31 20:41 hebrew.txt
+-rw-r--r-- 1 aueva 197609  51 Dec 31 20:41 arabic.txt
+
+africa:
+total 5
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:43 ../
+-rw-r--r-- 1 aueva 197609 2 Dec 31 20:41 afrikaans.txt
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./
