@@ -1,3 +1,23 @@
+commit 546ba6c0f7f7a6587c200a2523f3ab0fcf2f8f3a
+Merge: 01551e1 25999df
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:50:30 2021 +1100
+
+    Merge branch 'lrelocate'
+    One file was copied in multiple folders
+
+commit 25999dfefeb7e5cb74a4d10c0084cabc3f15c3f0
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:50:16 2021 +1100
+
+    Copy spanish.txt to europe/, northamerica/ and southamerica/
+
+commit 01551e13028466f5a982d3aa4927b1dd91bcf41b
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:47:29 2021 +1100
+
+    Update list-commits.txt and list-files.txt
+
 commit 702d369ad4bb6e7fa3949e783f4a26a72fe128f4
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Dec 31 20:45:56 2021 +1100
