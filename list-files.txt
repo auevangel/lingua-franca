@@ -1,27 +1,12 @@
--rw-r--r-- 1 aueva 197609    0 Dec 31 20:51 list-files.txt
--rw-r--r-- 1 aueva 197609 7080 Dec 31 20:51 list-commits.txt
--rw-r--r-- 1 aueva 197609    2 Dec 31 20:41 spanish.txt
-
-southamerica:
-total 6
--rw-r--r-- 1 aueva 197609  2 Dec 31 20:50 spanish.txt
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ./
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ../
--rw-r--r-- 1 aueva 197609 54 Dec 31 20:41 portuguese.txt
-
-northamerica:
-total 7
--rw-r--r-- 1 aueva 197609  2 Dec 31 20:50 spanish.txt
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ./
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ../
--rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 french.txt
--rw-r--r-- 1 aueva 197609 53 Dec 31 20:41 english.txt
+-rw-r--r-- 1 aueva 197609    0 Dec 31 21:01 list-files.txt
+-rw-r--r-- 1 aueva 197609 7823 Dec 31 21:01 list-commits.txt
 
 europe:
-total 15
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ./
+total 16
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:59 yiddish.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:59 ./
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:58 ../
 -rw-r--r-- 1 aueva 197609  2 Dec 31 20:50 spanish.txt
-drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ../
 -rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 russian.txt
 -rw-r--r-- 1 aueva 197609 54 Dec 31 20:41 portuguese.txt
 -rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 italian.txt
@@ -30,10 +15,12 @@ drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ../
 -rw-r--r-- 1 aueva 197609 53 Dec 31 20:41 english.txt
 
 asia:
-total 15
-drwxr-xr-x 1 aueva 197609   0 Dec 31 20:50 ../
+total 17
+drwxr-xr-x 1 aueva 197609   0 Dec 31 20:59 ./
+-rw-r--r-- 1 aueva 197609   2 Dec 31 20:59 punjabi.txt
+-rw-r--r-- 1 aueva 197609   2 Dec 31 20:59 bengali.txt
+drwxr-xr-x 1 aueva 197609   0 Dec 31 20:58 ../
 -rw-r--r-- 1 aueva 197609   2 Dec 31 20:46 chinese.txt
-drwxr-xr-x 1 aueva 197609   0 Dec 31 20:46 ./
 -rw-r--r-- 1 aueva 197609 150 Dec 31 20:41 malay.txt
 -rw-r--r-- 1 aueva 197609  14 Dec 31 20:41 korean.txt
 -rw-r--r-- 1 aueva 197609   2 Dec 31 20:41 japanese.txt
@@ -41,22 +28,38 @@ drwxr-xr-x 1 aueva 197609   0 Dec 31 20:46 ./
 -rw-r--r-- 1 aueva 197609   2 Dec 31 20:41 hebrew.txt
 -rw-r--r-- 1 aueva 197609  51 Dec 31 20:41 arabic.txt
 
+africa:
+total 6
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:59 ./
+-rw-r--r-- 1 aueva 197609 2 Dec 31 20:59 afrihili.txt
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:58 ../
+-rw-r--r-- 1 aueva 197609 2 Dec 31 20:41 afrikaans.txt
+
+southamerica:
+total 6
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:58 ../
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:50 spanish.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ./
+-rw-r--r-- 1 aueva 197609 54 Dec 31 20:41 portuguese.txt
+
+northamerica:
+total 7
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:58 ../
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:50 spanish.txt
+drwxr-xr-x 1 aueva 197609  0 Dec 31 20:50 ./
+-rw-r--r-- 1 aueva 197609  2 Dec 31 20:41 french.txt
+-rw-r--r-- 1 aueva 197609 53 Dec 31 20:41 english.txt
+
 world:
 total 4
-drwxr-xr-x 1 aueva 197609 0 Dec 31 20:50 ../
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:58 ../
 -rw-r--r-- 1 aueva 197609 0 Dec 31 20:41 esperanto.txt
 drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./
 
 todo:
 total 4
-drwxr-xr-x 1 aueva 197609 0 Dec 31 20:50 ../
+drwxr-xr-x 1 aueva 197609 0 Dec 31 20:58 ../
 drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 europe/
 drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./
 drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 asia/
 drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 africa/
-
-africa:
-total 5
-drwxr-xr-x 1 aueva 197609 0 Dec 31 20:50 ../
--rw-r--r-- 1 aueva 197609 2 Dec 31 20:41 afrikaans.txt
-drwxr-xr-x 1 aueva 197609 0 Dec 31 20:41 ./

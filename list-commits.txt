@@ -1,3 +1,29 @@
+commit ef21e2cf5a50d8e7349699ecd54fabf5e3a96d63
+Merge: 118f1e5 a130909
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:59:02 2021 +1100
+
+    Merge branch 'lrelocate'
+    Files from todo/ were copied to different folders
+
+commit a13090997a18dc7e4b00e894daa31a24f6dfa281
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:58:47 2021 +1100
+
+    Copy txt files from todo/ to africa/, asia/ and europe/
+
+commit 118f1e5acdb263fa8e8832b8ea7f1c86914c865c
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:53:36 2021 +1100
+
+    Remove spanish.txt
+
+commit bbc31379ead25f280102d5c15b16f54969fc7943
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 20:52:34 2021 +1100
+
+    Updated list-commits & list-files
+
 commit 546ba6c0f7f7a6587c200a2523f3ab0fcf2f8f3a
 Merge: 01551e1 25999df
 Author: auevangel <auevangel@gmail.com>
