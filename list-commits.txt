@@ -1,3 +1,39 @@
+commit da36dbfa5a2559d3c7cb5ac6998f6fcbb5671224
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 22:09:08 2021 +1100
+
+    Remove list-commit.txt, wrong file
+
+commit feb5f882d4389dce17eb4802451cc633529ee3da
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 22:06:44 2021 +1100
+
+    Replace Lingua-Franca with Lingua Franca in all files
+
+commit 834cd6b302d2bf1092c8692a928a5292af4e5a5c
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 22:01:03 2021 +1100
+
+    Latest list of commits and files in list-commit.txt list-files.txt
+
+commit a95c0e58cd763f028597e47247e8e1e5732f98c9
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 21:59:18 2021 +1100
+
+    List empty files in todo/empty_files.txt
+
+commit 7aca97602e7f3296ce19083b6e73d4bb3438314b
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 21:17:09 2021 +1100
+
+    List empty files and save to todo/empty_files.txt
+
+commit c406cbd2b4bb5d13d788d680ff4d640998f0b953
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 21:13:24 2021 +1100
+
+    Latest commits and files on 31 Dec 2021, 9:12 PM
+
 commit 6aefe7e4a06db66c71959b021d2dd8a711836178
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Dec 31 21:10:50 2021 +1100
