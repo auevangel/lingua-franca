@@ -1,29 +1,34 @@
--rw-r--r-- 1 aueva 197609    0 Dec 31 22:10 list-files.txt
--rw-r--r-- 1 aueva 197609 9636 Dec 31 22:09 list-commits.txt
+-rw-r--r-- 1 aueva 197609    0 Dec 31 22:19 list-files.txt
+-rw-r--r-- 1 aueva 197609 9823 Dec 31 22:19 list-commits.txt
+
+script:
+total 4
+drwxr-xr-x 1 aueva 197609 0 Dec 31 22:17 ./
+drwxr-xr-x 1 aueva 197609 0 Dec 31 22:17 ../
 
 world:
 total 4
-drwxr-xr-x 1 aueva 197609 0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609 0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609 0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609 0 Dec 31 22:04 esperanto.txt
 
 todo:
 total 6
-drwxr-xr-x 1 aueva 197609   0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609   0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609   0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609 419 Dec 31 22:04 empty_files.txt
 -rw-r--r-- 1 aueva 197609 147 Dec 31 22:04 asian_languages_files.txt
 
 southamerica:
 total 6
-drwxr-xr-x 1 aueva 197609  0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609  0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 spanish.txt
 -rw-r--r-- 1 aueva 197609 53 Dec 31 22:04 portuguese.txt
 
 northamerica:
 total 7
-drwxr-xr-x 1 aueva 197609  0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609  0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 spanish.txt
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 french.txt
@@ -31,7 +36,7 @@ drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 
 europe:
 total 16
-drwxr-xr-x 1 aueva 197609  0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609  0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 yiddish.txt
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 spanish.txt
@@ -44,7 +49,7 @@ drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 
 asia:
 total 17
-drwxr-xr-x 1 aueva 197609   0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609   0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609   0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609   1 Dec 31 22:04 punjabi.txt
 -rw-r--r-- 1 aueva 197609 145 Dec 31 22:04 malay.txt
@@ -58,7 +63,7 @@ drwxr-xr-x 1 aueva 197609   0 Dec 31 22:04 ./
 
 africa:
 total 6
-drwxr-xr-x 1 aueva 197609  0 Dec 31 22:08 ../
+drwxr-xr-x 1 aueva 197609  0 Dec 31 22:17 ../
 drwxr-xr-x 1 aueva 197609  0 Dec 31 22:04 ./
 -rw-r--r-- 1 aueva 197609 42 Dec 31 22:04 afrikaans.txt
 -rw-r--r-- 1 aueva 197609  1 Dec 31 22:04 afrihili.txt
