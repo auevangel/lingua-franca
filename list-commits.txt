@@ -1,3 +1,51 @@
+commit 958633326d25bed9b697f6fb26cc7b0be44236f3
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 19:17:27 2021 +1100
+
+    Delete spanish.txt
+
+commit 1e4d14fadcbf0d4c6f2287ccb8a90dda801c6f9c
+Merge: f0a44de 0aef2b2
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Fri Dec 31 19:15:47 2021 +1100
+
+    Merge pull request #4 from auevangel/l-relocates
+    
+    Merge pull request #3 from auevangel/main
+
+commit 0aef2b2f7ca49f773ca6e0e978eeb8609f969123
+Merge: 764d0d2 f0a44de
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Fri Dec 31 19:15:28 2021 +1100
+
+    Merge pull request #3 from auevangel/main
+    
+    merge main and relocates
+
+commit f0a44ded18a6de73bd05a6157bd527ce833b1bab
+Merge: 172dea4 aeedb3e
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Fri Dec 31 19:14:44 2021 +1100
+
+    Merge pull request #2 from auevangel/l-creates
+    
+    Merge pull request #1 from auevangel/main
+
+commit aeedb3e98ed38f05ddbc4f02789515e5c7f7e822
+Merge: 92bc3eb 172dea4
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Fri Dec 31 19:14:12 2021 +1100
+
+    Merge pull request #1 from auevangel/main
+    
+    merge main and creates
+
+commit 172dea4928db020d55cd115eb2593b0e6bef56af
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Dec 31 19:08:45 2021 +1100
+
+    Obtain git log and overwrite list-commits.txt
+
 commit 4eb927486196cd73b321ad1646e6951a7754d737
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Dec 31 19:07:52 2021 +1100
